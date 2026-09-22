@@ -1,33 +1,36 @@
 # 🧩 LeetCode Solutions
 
-A curated collection of LeetCode problems solved in **C++** and **Python**, focusing on optimal time and space complexities, clean code practices, and core Data Structures & Algorithms (DSA).
+Automated repository containing my solutions to Data Structures & Algorithms (DSA) problems on LeetCode, automatically synced using **LeetSync**.
 
 ---
 
-## 🛠️ Languages & Concepts
+## 📊 Live LeetCode Stats
 
-- **Languages:** C++, Python
-- **Core Topics:** Dynamic Programming, Arrays, Hash Tables, Strings, Two Pointers, Trees & Graphs
-- **Automation:** Auto-synced using [LeetSync](https://github.com/343max/LeetSync)
+<!-- These SVG cards fetch live data automatically from LeetCode. Zero manual updates needed! -->
 
----
-
-## 📌 Featured Problems
-
-| # | Problem | Difficulty | Solution | Time Complexity | Space Complexity |
-|---|---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Code](./1-two-sum) | $O(N)$ | $O(N)$ |
-| 977 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴 Hard | [Code](./977-distinct-subsequences-ii) | $O(N)$ | $O(N)$ |
+<p align="center">
+  <a href="https://leetcode.com/u/Samad_07/">
+    <img src="https://leetcode-stats-api.herokuapp.com/Samad_07" alt="Samad's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Tech Stack & Core Topics
+
+- **Languages:** C++ | Python
+- **Focus Areas:** Dynamic Programming, Graphs & Trees, Arrays & Strings, Two Pointers, Bit Manipulation, Heap / Priority Queue
+- **Automation:** Integrated with [LeetSync](https://github.com/33635832/LeetSync) for seamless solution sync.
+
+---
+
+## 📂 Repository Navigation
+
+All solutions are organized by problem directory, generated automatically upon submission:
 
 ```text
 LeetCode-Solutions/
-│
-├── 1-two-sum/
-│   └── solution file
-├── 977-distinct-subsequences-ii/
-│   └── solution file
+├── <problem-id>-<problem-name>/
+│   ├── README.md        # Problem statement & complexity breakdown
+│   └── solution.<ext>   # Clean & optimized source code
 └── README.md
