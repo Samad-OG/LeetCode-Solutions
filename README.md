@@ -1,36 +1,30 @@
-# 🧩 LeetCode Solutions
+# ⚡ LeetCode Problem Solving Journal
 
-Automated repository containing my solutions to Data Structures & Algorithms (DSA) problems on LeetCode, automatically synced using **LeetSync**.
+> *"Turning $O(N^2)$ problems into $O(1)$ solutions — on the screen and in real life."*
 
----
-
-## 📊 Live LeetCode Stats
-
-<!-- These SVG cards fetch live data automatically from LeetCode. Zero manual updates needed! -->
-
-<p align="center">
-  <a href="https://leetcode.com/u/Samad_07/">
-    <img src="https://leetcode-stats-api.herokuapp.com/Samad_07" alt="Samad's LeetCode Stats" />
-  </a>
-</p>
+Welcome to my personal archive of Data Structures & Algorithms solutions. This repository serves as a automated journal tracking my algorithmic thinking, efficiency optimizations, and problem-solving consistency.
 
 ---
 
-## 🛠️ Tech Stack & Core Topics
+## 🎯 Repository Philosophy
 
-- **Languages:** C++ | Python
-- **Focus Areas:** Dynamic Programming, Graphs & Trees, Arrays & Strings, Two Pointers, Bit Manipulation, Heap / Priority Queue
-- **Automation:** Integrated with [LeetSync](https://github.com/33635832/LeetSync) for seamless solution sync.
+- **Optimal Execution:** Focus on low time and space complexity ($O(\log N)$, $O(N)$).
+- **Clean Code:** Self-documenting code structured with standard DSA patterns.
+- **Continuous Growth:** Daily submissions across core categories.
 
 ---
 
-## 📂 Repository Navigation
-
-All solutions are organized by problem directory, generated automatically upon submission:
+## 🧩 Topics & Algorithmic Patterns
 
 ```text
-LeetCode-Solutions/
-├── <problem-id>-<problem-name>/
-│   ├── README.md        # Problem statement & complexity breakdown
-│   └── solution.<ext>   # Clean & optimized source code
-└── README.md
+├── Data Structures
+│   ├── Arrays, Strings & Two Pointers
+│   ├── Hash Maps & Set Operations
+│   ├── Linked Lists, Stacks & Queues
+│   └── Binary Trees, BSTs & Graphs
+│
+└── Algorithms
+    ├── Binary Search & Dynamic Programming
+    ├── Depth-First & Breadth-First Search (DFS/BFS)
+    ├── Sliding Window & Monotonic Stack
+    └── Greedy Algorithms & Bit Manipulation
